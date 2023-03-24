@@ -1,0 +1,1 @@
+[2022-08-09 16:25:12] production.ERROR: purchase license key not provided {"process":"[updates]","0":"c26b677","function":"checkUpdates","file":"Updates.php","line":107,"path":"/home/htmlbask/public_html/dashboard/application/app/Http/Controllers/Settings/Updates.php"} 
